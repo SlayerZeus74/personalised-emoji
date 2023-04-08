@@ -86,7 +86,7 @@ button {
 .container {
   border: 5px solid #d5d4d8;
   width: 600px;
-  height: 600px;
+  height: inherit;
   margin: 0 auto;
   border-radius: 10px;
   background: #ecfdf5;
